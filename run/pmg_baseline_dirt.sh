@@ -1,0 +1,2 @@
+python main_train.py --method baseline  --exp_name dirt_exp1 --lr 2e-3 --arch pmg --weight_decay 5e-4 --batch_size 16 --train_class outer_normal,outer_dirt --test_class outer_normal,outer_dirt 
+python main_train.py --method baseline  --exp_name dirt_exp2 --lr 2e-3 --arch pmg --weight_decay 5e-4 --batch_size 16 --train_class outer_normal,outer_dirt --test_class outer_normal,outer_dirt

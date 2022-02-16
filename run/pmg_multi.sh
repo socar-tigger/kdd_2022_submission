@@ -1,0 +1,2 @@
+python main_train.py --method multi  --exp_name exp1 --lr 2e-3 --arch pmg --weight_decay 5e-4 --batch_size 16 
+python main_train.py --method multi  --exp_name exp2 --lr 2e-3 --arch pmg --weight_decay 5e-4 --batch_size 16 
