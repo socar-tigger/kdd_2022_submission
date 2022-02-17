@@ -16,10 +16,6 @@ If you aim to reproduce the study, we recommend you to submit a request form to 
 In case of any problems or inquiries, please raise the Issue.
 
 
-## Prepare Dataset
-
-TBD
-
 ## Training a Model 
 
 To train a model, run:
